@@ -1,4 +1,4 @@
-# AI-2017
+# Défi IA JDIS 2017
 Pour la troisième année consécutive, nous avons le bonheur de vous inviter au Défi IA JDIS 2017.
 
 ## FAQ
